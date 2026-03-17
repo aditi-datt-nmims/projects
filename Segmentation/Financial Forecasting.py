@@ -1,4 +1,4 @@
-```python
+
 # Retail Sales Forecasting & Strategic Optimization
 # Advanced time series forecasting with revenue optimization recommendations
 
